@@ -1,0 +1,23 @@
+h1 {
+    font-size: 60px;
+    font-family: "Bodoni Ornaments";
+    text-align: center;
+    position: relative;
+    bottom: 100px;
+}
+h3 {
+    font-size: 80px;
+    font-family: cursive;
+    text-align: center;
+}
+body {
+    background-color: cornflowerblue;
+}
+.parameter {
+    font-size: 30px;
+    font-family: cursive;
+}
+h4 {
+    font-size: 20px;
+    font-family: "Baskerville Old Face";
+}
